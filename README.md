@@ -1,6 +1,5 @@
 # Student Blog Template
-
-This repository is a template for students to create and deploy their own blog using Markdown files.
+Test blog
 
 ## Creating a Blog Post
 1. Open the `/posts` folder.
